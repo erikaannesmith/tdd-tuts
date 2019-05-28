@@ -1,4 +1,4 @@
-package iteration
+package main
 
 const repeatCount = 5
 
